@@ -1,4 +1,10 @@
-<h3>Ex Business, New Software Developer</h3>
+<h2>Ex Business, New Software Developer</h2>
+
+<h4>
+  Hey there 👋, I am Ali. 
+  <br>
+  Ex Business Developer and now Software Developer with a passion to create solutions in web technologies
+</h4>
 
 🛠️ I’m currently working on **Javascript, React**
 
