@@ -1,6 +1,6 @@
 <h3>Ex Business, New Software Developer</h3>
 
-- 🔭 I’m currently working on **Javascript, React**
+🔭 I’m currently working on **Javascript, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
