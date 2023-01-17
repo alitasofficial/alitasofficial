@@ -1,4 +1,4 @@
-<h3 align="center">Ex Business, New Software Developer</h3>
+<h3>Ex Business, New Software Developer</h3>
 
 - 🔭 I’m currently working on **Javascript, React**
 
