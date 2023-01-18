@@ -14,6 +14,11 @@
   <a href="https://linkedin.com/in/alitasofficial" target="blank">Linkedin</a>
   <a href="https://www.youtube.com/@AliTasOfficial" target="blank">YouTube</a>
 </p>
+<p>
+  <img
+    src="https://www.codewars.com/users/alitas/badges/small?theme=dark"     
+  />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -79,7 +84,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=alitasofficial&show_icons=true&locale=en&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alitasofficial&show_icons=true&locale=en&layout=compact&theme=default"
     alt="alitasofficial"
   />
 </p>
