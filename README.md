@@ -6,7 +6,9 @@ I am currently working as a freelance web developer and indie maker, and I'm exc
 
 ## My Tech Stack
 
-I find great joy in working with cutting-edge technologies, and my go-to tools include React and Next.js, especially reveling in the new App Router feature. I'm a big fan of Tailwind CSS, which streamlines my styling process, and I often work with PostgreSQL for robust data management. However, my true love lies in JavaScript, as its versatility and dynamic nature never cease to amaze me.
+I find great joy in working with cutting-edge technologies, and my go-to tools include React and Next.js, especially reveling in the new App Router feature. 
+
+I'm a big fan of Tailwind CSS, which streamlines my styling process, and I often work with PostgreSQL for robust data management. However, my true love lies in JavaScript, as its versatility and dynamic nature never cease to amaze me.
 
 ## Connect with Me
 
