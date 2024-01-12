@@ -2,14 +2,14 @@
  
 Sometimes working as a freelance web dev or indie maker. Usually my go-to tools are Next.js, Tailwind, Radix-ui and Strapi.
 
-## Connect
+### Connect
 
 - [Twitter](https://twitter.com/alitas_official)
 - [LinkedIn](https://linkedin.com/in/alitasofficial)
 - [YouTube](https://www.youtube.com/@AliTasOfficial)
 - [Telegram](https://t.me/alitas_official)
 
-## Technologies and Tools
+### Technologies and Tools
 
 Some of the key tools and technologies I frequently work with 👇🏻
 
