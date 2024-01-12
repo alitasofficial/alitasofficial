@@ -1,10 +1,6 @@
 # Ali Tas
  
-Sometimes working as a freelance web dev or indie maker.
-
-## My Tech Stack
-
-Usually my go-to tools are Next.js, Tailwind, Radix-ui and Strapi.
+Sometimes working as a freelance web dev or indie maker. Usually my go-to tools are Next.js, Tailwind, Radix-ui and Strapi.
 
 ## Connect
 
